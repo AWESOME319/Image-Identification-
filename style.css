@@ -1,0 +1,22 @@
+body{
+    color: white;
+    background-color: pink;
+}
+.heading{
+    width: 82%;
+    font-size:22px;
+
+}
+.name_of_object{
+    color:yellow;
+
+}
+#camera{
+    border:2px dashed  black;
+    width:350px;
+    height: 300px;
+}
+.name_of_object,#result_object_name{
+    color: yellow;
+    
+}
